@@ -1,7 +1,5 @@
 # Vehicle_Stability-_Assistance_System-ESP-TCS-ABS-
 
-# Safety & Stability Braking System (Based on ESP)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
