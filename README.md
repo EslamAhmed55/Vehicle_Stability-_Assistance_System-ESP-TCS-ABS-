@@ -42,7 +42,7 @@ The **Electronic Stability Program (ESP)** is designed to improve vehicle stabil
 - Reducing skidding or sliding, especially in challenging driving conditions.
 - Preventing drive wheels from losing traction during acceleration.
 
-![s](https://github.com/user-attachments/assets/a0baa642-fb5d-4237-83ff-3bda1dfea99f)
+![Capture](https://github.com/user-attachments/assets/747e318d-d4d6-44e4-b839-8bd4fd314dce)
 
 
 ## Design Methodology
