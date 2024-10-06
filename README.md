@@ -94,8 +94,8 @@ Our methodology is based on **Model-Based Development (MBD)** with the following
 ## Expected Components
 
 - **ECUs**
-- **Raspberry Pi 4 Model B**
-- **STM32F446RE (NUCLEO-F446RE)**
+- Raspberry Pi 4 Model B**
+- STM32F446RE (NUCLEO-F446RE)**
 - **Sensors**:
   - Yaw Rate Sensor
   - Lateral Acceleration Sensor
@@ -105,4 +105,8 @@ Our methodology is based on **Model-Based Development (MBD)** with the following
 - **Hardware Tools**:
   - STLINK V2 Debugger
   - CAN Transceivers
+ 
+  -- **Hydraulic Circuit**:
+  -Pumps
+  -Valves
 
