@@ -6,7 +6,7 @@
 - [Objectives](#objectives)
 - [Design Methodology](#design-methodology)
 - [Expected Components](#expected-components)
-- [Hardware_Design](#hardware design)
+- [Expected Components](#expected-components)
 ---
 
 ## Introduction
