@@ -13,7 +13,7 @@
 
 Safety braking systems are a critical component of modern vehicles that help prevent accidents and reduce the severity of collisions. These systems work in conjunction with the driver, using advanced sensors and computer technology, to detect potential hazards and automatically apply the brakes to avoid or mitigate collisions.
 
-Instead of using hydraulic fluid to transmit braking force, brake-by-wire systems use electronic signals. The **Electronic Control Unit (ECU)** is the core component that processes information from various sensors and makes split-second decisions to activate braking components,A project focused on developing a Vehicle Stability Assistance System using model-based design and real-time operating systems (RTOS)
+Instead of using hydraulic fluid to transmit braking force, brake-by-wire systems use electronic signals. The **Electronic Control Unit (ECU)** is the core component that processes information from various sensors and makes split-second decisions to activate braking components, A project focused on developing a Vehicle Stability Assistance System using model-based design and real-time operating systems (RTOS)
 
 ---
 
