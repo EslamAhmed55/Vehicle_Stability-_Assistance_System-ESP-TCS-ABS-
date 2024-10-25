@@ -6,7 +6,7 @@
 - [Objectives](#objectives)
 - [Design Methodology](#design-methodology)
 - [Expected Components](#expected-components)
-
+- [Hardware_Design](#hardware design)
 ---
 
 ## Introduction
@@ -90,6 +90,9 @@ Our methodology is based on **Model-Based Development (MBD)** with the following
     performance under actual operating conditions.
 
 ---
+## Hardware_Design
+
+![Capture](https://github.com/user-attachments/assets/c2d00f1b-015a-4dc4-b93b-5ebb20482e9f)
 
 ## Expected Components
 
