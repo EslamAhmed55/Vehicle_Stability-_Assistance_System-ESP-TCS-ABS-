@@ -5,8 +5,9 @@
 - [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
 - [Design Methodology](#design-methodology)
+- [Hardware Design](#hardware-design)
 - [Expected Components](#expected-components)
-- [HardWare Design](#hardware-design)
+
 ---
 
 ## Introduction
